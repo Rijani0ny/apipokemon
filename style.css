@@ -50,7 +50,7 @@ body{
 #button{
     background-color: oklab(lightness a b);
     border-radius: 5px;
-    color: white;
+    color: rgb(230, 183, 29);
     font-weight: bold;
     padding: 10px 30px;
     cursor: pointer;
@@ -59,12 +59,12 @@ body{
 
 #button:hover{
     transform: translate(-2px);
-    background-color: #ff8839;
+    background-color: #df8d56;
 }
 
 #button:active{
     transform: translate(-2px);
-    background-color: #ff7a22;
+    background-color: #ffcb22;
 }
 
 
